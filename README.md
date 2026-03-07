@@ -4,6 +4,8 @@
 **Institution:** Mar Athanasius College of Engineering, Kothamangalam<br>
 **Topic 5:** Memory Management in Linux (CO 4 — Apply level)
 
+**Video Class:** [YouTube link — coming soon]()
+
 ---
 
 ## Overview
@@ -18,15 +20,15 @@ This project contains a **video class** and an accompanying **report** on memory
 
 ## Deliverables
 
-| File                                   | Description                                                                       |
-| -------------------------------------- | --------------------------------------------------------------------------------- |
-| `Report_Memory_Management_in_Linux.md` | Written report (≤ 10 pages) with theory, implementation, results, and SDG mapping |
-| `Video_Class_Slide_Notes.md`           | 16-slide outline with ASCII diagrams and talking points (~25 min)                 |
-| `Video_Class_Transcript.txt`           | Full spoken-word transcript for the video class                                   |
-| `Expected_Program_Outputs.md`          | Annotated expected outputs for every program and script                           |
-| `code/demand_paging_demo.c`            | C program demonstrating demand paging (3 phases × 3 patterns)                     |
-| `code/compare_page_faults.sh`          | Runs all 3 patterns, prints comparison table, saves per-pattern vmstat logs       |
-| `code/vmstat_monitor.sh`               | Captures vmstat before/during/after a single pattern run                          |
+| File                                     | Description                                                                       |
+| ---------------------------------------- | --------------------------------------------------------------------------------- |
+| `Report_Memory_Management_in_Linux.docx` | Written report (≤ 10 pages) with theory, implementation, results, and SDG mapping |
+| `Report_Memory_Management_in_Linux.pdf`  | PDF export of the report (viewable on GitHub)                                     |
+| `Video_Class_Slide_Notes.pptx`           | 16-slide outline with ASCII diagrams and talking points (~25 min)                 |
+| `Video_Class_Slide_Notes.pdf`            | PDF export of the slides (viewable on GitHub)                                     |
+| `code/demand_paging_demo.c`              | C program demonstrating demand paging (3 phases × 3 patterns)                     |
+| `code/compare_page_faults.sh`            | Runs all 3 patterns, prints comparison table, saves per-pattern vmstat logs       |
+| `code/vmstat_monitor.sh`                 | Captures vmstat before/during/after a single pattern run                          |
 
 ---
 
