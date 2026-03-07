@@ -1,7 +1,7 @@
 # Memory Management in Linux
 
-**Course:** B24CS2T04 — Operating Systems
-**Institution:** Mar Athanasius College of Engineering, Kothamangalam
+**Course:** B24CS2T04 — Operating Systems<br>
+**Institution:** Mar Athanasius College of Engineering, Kothamangalam<br>
 **Topic 5:** Memory Management in Linux (CO 4 — Apply level)
 
 ---
