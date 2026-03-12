@@ -4,7 +4,7 @@
 **Institution:** Mar Athanasius College of Engineering, Kothamangalam<br>
 **Topic 5:** Memory Management in Linux (CO 4 — Apply level)
 
-**Video Class:** [YouTube link — coming soon]()
+**Video Class:** [Watch in YouTube](https://youtu.be/U3UWHLdP--w?si=fjuM7m7QE2b-jtnC)
 
 ---
 
